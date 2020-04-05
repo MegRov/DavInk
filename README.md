@@ -2,70 +2,33 @@
 
 _landing page para un tatuador freelacer_
 
-## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+## Requisitos 📋
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+###Tener las siguientes secciones:
 
+-Portada con foto del tatuador
 
-### Pre-requisitos 📋
+-seccion "Mis ilustraciones"
+    -dónde se muestren las ilustraciones mediante un slider que permita hacer cambio manual
+-seccion "Promociones"
+    -Se mostrarán las siguientes promociones especiales en tatuajes 
+        -Flash tattoo, redirigirá a la persona a la seccion, se mostraran los tatuajes flash y texto alusivo
+        -Abona, seccion donde habrá imagenes con tatuajes elaborados, texto alusivo y contacto
+        -regala, seccion donde mostrarán tatuajes realizados y texto alusivo
+-seccion para contactar donde estén redes sociales, y whatsapp que dirija directamente.
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+-recomendaciones y cuidados
+    -debe tener mínimo 4 articulos con cuidados para los tatuajes
+-seccion contactame y encuentrame.
 
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Bootstrap 4] (https://getbootstrap.com/) - El framework web usado
+* [Html][CSS][JavaScript] - Lenguaje front-end
+* [PHP](https://www.php.net/) - Lenguaje Back-end
 
 ## Contribuyendo 🖇️
 
@@ -83,23 +46,6 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* **Luis Miguel Guevara** - *Trabajo Inicial* - [MegRov](https://github.com/MegRov)
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
