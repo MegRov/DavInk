@@ -5,22 +5,22 @@ _landing page para un tatuador freelacer_
 
 ## Requisitos 📋
 
-###Tener las siguientes secciones:
+### Tener las siguientes secciones:
 
--Portada con foto del tatuador
+- Portada con foto del tatuador
 
--seccion "Mis ilustraciones"
-    -dónde se muestren las ilustraciones mediante un slider que permita hacer cambio manual
--seccion "Promociones"
-    -Se mostrarán las siguientes promociones especiales en tatuajes 
-        -Flash tattoo, redirigirá a la persona a la seccion, se mostraran los tatuajes flash y texto alusivo
-        -Abona, seccion donde habrá imagenes con tatuajes elaborados, texto alusivo y contacto
-        -regala, seccion donde mostrarán tatuajes realizados y texto alusivo
--seccion para contactar donde estén redes sociales, y whatsapp que dirija directamente.
+- seccion "Mis ilustraciones"
+    - dónde se muestren las ilustraciones mediante un slider que permita hacer cambio manual
+- seccion "Promociones"
+    - Se mostrarán las siguientes promociones especiales en tatuajes 
+        - Flash tattoo, redirigirá a la persona a la seccion, se mostraran los tatuajes flash y texto alusivo
+        - Abona, seccion donde habrá imagenes con tatuajes elaborados, texto alusivo y contacto
+        - regala, seccion donde mostrarán tatuajes realizados y texto alusivo
+- seccion para contactar donde estén redes sociales, y whatsapp que dirija directamente.
 
--recomendaciones y cuidados
-    -debe tener mínimo 4 articulos con cuidados para los tatuajes
--seccion contactame y encuentrame.
+- recomendaciones y cuidados
+    - debe tener mínimo 4 articulos con cuidados para los tatuajes
+- seccion contactame y encuentrame.
 
 ## Construido con 🛠️
 
