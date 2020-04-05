@@ -26,17 +26,10 @@ _landing page para un tatuador freelacer_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Bootstrap 4] (https://getbootstrap.com/) - El framework web usado
+* [Bootstrap 4](https://getbootstrap.com/) - El framework web usado
 * [Html][CSS][JavaScript] - Lenguaje front-end
 * [PHP](https://www.php.net/) - Lenguaje Back-end
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Versionado 📌
 
