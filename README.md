@@ -37,7 +37,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
 
 * **Luis Miguel Guevara** - *Trabajo Inicial* - [MegRov](https://github.com/MegRov)
 
